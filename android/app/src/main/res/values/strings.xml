@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KioFocus</string>
+    <string name="accessibility_service_description">
+        O KioFocus detecta quando um app bloqueado é aberto e exibe o timer de pausa.
+    </string>
+</resources>
